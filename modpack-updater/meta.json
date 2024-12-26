@@ -5,12 +5,12 @@
     {
       "id": "24w52a",
       "releasedAt": 209384093820,
+      "updateType": "minor",
       "promotions": {
         "downloads": {
           "modrinth": "https://www.curseforge.com/minecraft/modpacks/create-dreamers-domain/files/4922482"
     }
       }
-      "updateType": "minor"
     }
  
   ]
