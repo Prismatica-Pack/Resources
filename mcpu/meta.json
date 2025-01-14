@@ -11,6 +11,16 @@
           "modrinth": "https://example.com/"
         }
       }
+    },
+        {
+      "id": "1.1.0b",
+      "releasedAt": 309384093820,
+      "updateType": "major",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://example.com/"
+        }
+      }
     }
   ]
 }
