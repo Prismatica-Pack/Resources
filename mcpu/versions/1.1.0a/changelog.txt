@@ -1,1 +1,73 @@
-Work in Progress!
+## [+] Additions [+]
+
+* Added You've Goat To Be Kidding Me
+* Added numerous compatibility layers using the following mods:
+  * Added Almost Unified
+    * Added Dependency Tags Binder
+    * Default configs have been modified
+    * itemsHidingJeiRei set to false
+  * Added Block Swap
+  * These combo will be listed now, with a "Compatibility layer 1 or 2"
+    * Compatibility Layer 1
+      * Object is unobtainable entirely
+    * Compatibility Layer 2
+      * Object is not obtainable, as item has been replaced in functionality to another item (eg Galosphere's silver to Oreganized's silver), will include lootables and generation
+* Added the Prismatica Recources pack
+  * This pack will mostly fix confusion with certain item names by renaming them, and other small tweaks or resources needed for the pack
+    * The following names have been changed, this will not include new name changes, just previous items that have now been change
+      * Supplementaries Rope has been renamed to Climbing Rope
+      * Supplementaries Wrench has been renamed to Copper Wrench
+      * Ad Astra's wrench has been renamed to Steel Wrench
+      * Ad Astra's Flags has been renamed to Steel Flags
+      * Frostiful's Icicle has been renamed to Packed Icicle
+      * Yungs Cave's Icicle has been renamed to Ancient Icicle
+* New additions to the UI have been made
+  * The panorama and loading icons now appear on more screens
+  * There is now a proper pause menu
+  * Added a compatibility mode
+    * The compatibility mode will auto detect and enable itself if mods that break the custom ui are added, at the current moment, the compatibility mode is only available for essential, but other mods may be added soon, compatibility mode may also implement some server side functionality if possible
+  * Implemented the news onto the title screen
+* Added Screenshot Viewer
+* Added FullStack Watchdog
+* Added Wilder Wild
+  * Added Dependency FrozenLib
+  * The default config has been changed
+    * Crabs can no longer spawn
+* Added Tide
+* Added Etcetera
+* Added Harvest with ease
+* Added Crosshair Bobbing [Experimental]
+  * The default configuration has been changed
+    * Only aiming and attacking animations are enabled
+* Added Legendary Tooltips
+  * Added Dependency Prism
+  * Added Dependency Iceberg
+* Added Clean Tooltips
+* Added Malum [Experimental]
+  * Added Dependency Lodestone
+  * Added Dependency Cardinal Components API
+  * Added Dependency PortingLib
+  * This mod is currently unmodified, balancing changes will most likely occur in the future
+  * Note: I am aware there is an issue relating to slimes entity types and item amount rendering, slimes are being left untouched for now and the item amount rendering is currently not fixable
+* Added Modpack Update Checker
+  * This is assigned as a new button in the title screen
+## [/] Adjustments [/]
+
+* Updated numerous mods
+* Supplementaries Cage Auto Detect has been enabled
+* Sand will no longer pile in sandstorms 
+* New changes to the new UI
+  * The new UI is now enabled on default
+  * You can no longer return to the old UI
+  * Some buttons have been reorganized to better resemble vanilla whilst being easy to use
+* Disabled NCR's Demand on Server option
+* Artifact campsites no longer generate
+  * This is due to the extremally high rarity that they spawn in, and lack of customization with it
+[-] Removals [-]
+
+* Removed some items
+  * Removed copycats:copycat_ghost_block, set to layer 1
+* Removed the fishing fanatic enchantment
+  * This was removed due to incompatibilities with Tide
+* Removed Enchantment Descriptions
+  * This is due to just looking messy, and being incompatible with fancier tooltip mods
