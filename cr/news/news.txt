@@ -1,5 +1,6 @@
 ## ===14/1/2025====
 The Prismatica news is finally here!
+
 With the introduction to the new update, we've had many new additions and changes to how the pack is developed and made, especially with compatibility!
 
 I hope you really enjoy this new update, and with most connection issues being resolved. The server should now be playable for anybody whitelisted!
