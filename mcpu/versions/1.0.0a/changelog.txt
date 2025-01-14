@@ -1,0 +1,101 @@
+# Prismatica Beta v1.0.0a
+```ansi
+[+] Additions [+]
+```
+> * The modpack now has proper branding
+>   * The modpack is called "Prismatica" and the logo, windows title, and other things will be changed accordingly
+> * Added a new experimental UI
+>   * On default it is disabled, but I highly recommend using it for testing purposes, it can always be toggled, it is a work in progress so many things are unfinished and need work
+>     * Currently the UI effects the title screen and resource reloading screen
+>       * Due to technical issues, the news feature is temporarily unavailable. I am working hard to make it work soon!
+> * Added Tempad
+>   * The default configuration has been changed
+>     * `timedoorFuelAmount` has been set to `1000000`
+>     * `timedoorFuelCapacity` has been set to `2000000`
+>     * `advancedTimedoorFuelAmount` has been set to `2000000`
+>     * `advancedTimedoorFuelCapacity` has been set to `16000000`
+>     * `timedoorFuelType` has been set to `tempad:energy`
+>     * `advancedTimedoorFuelType` has been set to `tempad:energy`
+> * Added Create: Steam 'n' Rails
+> * Added Ksyxis
+> * Added NoChatReports
+>   * The default configuration has been changed
+>     * `defaultSigningMode` has been set to `NEVER`
+>     * `showNCRButton` has been set to `false`
+>     * `showReloadButton` has been set to `false`
+>     * `hideSigningRequestMessage` has been set to `true` 
+>     * `demandOnServer` has been set to `true`
+>     * `showEncryptionButton` has been set to `false`
+>     * `showServerSafety` has been set to `false`
+>     * `alwaysHideReportButton` has been set to `true`
+>     * `verifiedIconEnabled` has been set to `false`
+> * Added Automobility
+>   * Removed slopes due to being too cursed to exist in minecraft 
+> * Added Nethers Delight Refabricated
+> * Added Gardens of the Dead
+> * Added Handcrafted
+> * Added Scorchful [Experimental]
+>   * Added dependency Thermoo
+>     * The default configuration has been changed
+>       * Passive heating has been disabled
+>       * The heating bar visuals have been disabled
+> * Added Thermoo Patches [Experimental]
+> * Added Frostiful [Experimental]
+>   * The default configuration has been changed
+>     * Passive freezing has been disabled
+>     * The freezing bar visuals have been disabled
+> * Added Mixin Conflict Helper
+> * Added Modpack Update Checker Infrastructure
+>   * Due to technical issues, this feature is temporarily unavailable. I am working hard to make it work soon!
+> * Added Quest Infrastructure
+> * Added Mod Loading Screen
+> * Added Alternate Current
+> * Added Monsters in the Closet
+> * Added ImmersiveThunder
+> * Added Soul Fire'd
+>   * Added Dependency Cobweb
+> * Added Galosphere
+> * Added Infinity Buttons
+>   * Added Dependency owo
+>     * All copper buttons have been removed due to incompatibility issues
+> * Added Species
+>   * There is currently an issue where birts will not spawn, I am working with the devs to try to fix this issue as soon as possible
+> * Added Man of Many Planes
+> * Added Luna Slimes
+> * Added Better Climbing
+> * Added Better End Cities for BetterEnd
+> * Added Subtle Effects
+>   * The default configuration has been changed
+>     * Too many changes have been made to list, if you are interested, please view the configuration yourself
+> * Added HorseInBoat
+> * Added Majrusz's Enchantments
+>   * Added Dependency Majrusz's Library
+> * Added Create: Pattern Schematics
+> * Added Arts & Crafts
+>   * Added Arts & Crafts Compatibility
+```ansi
+[/] Adjustments [/]
+```
+> * Adjusted configurations of artifacts
+>   * Changed campsite counts to 1
+>   * Changed campsite max y level to 0
+> * Adjusted RPC
+>   * RPC is now properly setup, and more private
+> * Zoomify configurations have been changed
+>   * The zoom now acts like optifine
+> * Items blacklisted will now be hidden in REI
+> * REI's favorite keybind was removed becuase I kept accidentally pressing it and it was annoying
+> * REI's effect location has been moved to the left
+> * TNT is now properly affected by dynamic lights
+> * Updated numerous mods
+> * Singleplayer is now available outside of developer mode
+```ansi
+[-] Removals [-]
+```
+> * Removed Dimensional Doors
+>   * This is due to severe issues with the mod
+> * Removed Particle Core [Experimental Change]
+>   * This mod has been replaced by Subtle Effects
+> * Removed some items
+>   * Removed both spelunkery chisels due to bypasses related to clamining chunks
+>   * Slopes from copycats+ due to being too cursed to exist in minecraft
