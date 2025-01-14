@@ -1,5 +1,5 @@
-# Prismatica Beta v1.0.0a
 ## [+] Additions [+]
+
 * The modpack now has proper branding
   * The modpack is called "Prismatica" and the logo, windows title, and other things will be changed accordingly
 * Added a new experimental UI
@@ -8,25 +8,25 @@
       * Due to technical issues, the news feature is temporarily unavailable. I am working hard to make it work soon!
 * Added Tempad
   * The default configuration has been changed
-    * `timedoorFuelAmount` has been set to `1000000`
-    * `timedoorFuelCapacity` has been set to `2000000`
-    * `advancedTimedoorFuelAmount` has been set to `2000000`
-    * `advancedTimedoorFuelCapacity` has been set to `16000000`
-    * `timedoorFuelType` has been set to `tempad:energy`
-    * `advancedTimedoorFuelType` has been set to `tempad:energy`
+    * timedoorFuelAmount has been set to 1000000
+    * timedoorFuelCapacity has been set to 2000000
+    * advancedTimedoorFuelAmount has been set to 2000000
+    * advancedTimedoorFuelCapacity has been set to 16000000
+    * timedoorFuelType has been set to tempad:energy
+    * advancedTimedoorFuelType has been set to tempad:energy
 * Added Create: Steam 'n' Rails
 * Added Ksyxis
 * Added NoChatReports
   * The default configuration has been changed
-    * `defaultSigningMode` has been set to `NEVER`
-    * `showNCRButton` has been set to `false`
-    * `showReloadButton` has been set to `false`
-    * `hideSigningRequestMessage` has been set to `true` 
-    * `demandOnServer` has been set to `true`
-    * `showEncryptionButton` has been set to `false`
-    * `showServerSafety` has been set to `false`
-    * `alwaysHideReportButton` has been set to `true`
-    * `verifiedIconEnabled` has been set to `false`
+    * defaultSigningMode has been set to NEVER
+    * showNCRButton has been set to false
+    * showReloadButton has been set to false
+    * hideSigningRequestMessage has been set to true 
+    * demandOnServer has been set to true
+    * showEncryptionButton has been set to false
+    * showServerSafety has been set to false
+    * alwaysHideReportButton has been set to true
+    * verifiedIconEnabled has been set to false
 * Added Automobility
   * Removed slopes due to being too cursed to exist in minecraft 
 * Added Nethers Delight Refabricated
@@ -72,6 +72,7 @@
 * Added Arts & Crafts
   * Added Arts & Crafts Compatibility
 ## [/] Adjustments [/]
+
 * Adjusted configurations of artifacts
   * Changed campsite counts to 1
   * Changed campsite max y level to 0
@@ -86,6 +87,7 @@
 * Updated numerous mods
 * Singleplayer is now available outside of developer mode
 ## [-] Removals [-]
+
 * Removed Dimensional Doors
   * This is due to severe issues with the mod
 * Removed Particle Core [Experimental Change]
