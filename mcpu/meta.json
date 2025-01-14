@@ -3,17 +3,17 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "1.1.0a",
-      "releasedAt": 209384093820,
+      "id": "1.0.0a",
+      "releasedAt": 1735931880000,
       "updateType": "major",
       "promotions": {
         "downloads": {
-          "modrinth": "https://example.com/"
+          "modrinth": "https://modrinth.com/modpack/prismatica-pack/version/v1.0.0a"
         }
       }
     },
         {
-      "id": "1.1.0b",
+      "id": "1.1.0a",
       "releasedAt": 309384093820,
       "updateType": "major",
       "promotions": {
