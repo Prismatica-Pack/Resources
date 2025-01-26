@@ -21,6 +21,16 @@
           "modrinth": "https://modrinth.com/modpack/prismatica-pack/version/v1.1.0a"
         }
       }
+    },
+            {
+      "id": "1.2.0a",
+      "releasedAt": 1737923100000,
+      "updateType": "major",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/prismatica-pack/version/v1.2.0a"
+        }
+      }
     }
   ]
 }
