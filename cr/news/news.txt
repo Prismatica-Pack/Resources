@@ -1,4 +1,13 @@
-## ===14/1/2025====
+## ===1/26/2025===
+v1.2.0a has now been released!
+
+Currently, they're aren't many more mods for us to add at the moment, so future updates will most likely be minor additions, tweaks, and other things like that.
+
+I will continue supporting the pack along the way, and I am also actively working on potentially adding KiltMC in the future, however this may be a while, so don't have any hopes up!
+
+Until then, if you have a mod to suggest, let me know! I will mainly be working on stability and making the pack the best it can be!
+
+## ===1/14/2025====
 The Prismatica news is finally here!
 
 With the introduction to the new update, we've had many new additions and changes to how the pack is developed and made, especially with compatibility!
