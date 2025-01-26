@@ -1,1 +1,43 @@
-fdsdgfsh
+## [+] Additions [+]
+
+* Added More Culling
+* Added ThreatenGL
+* Added Better Biome Reblend
+* Added Crash Assistant
+* Added Immersive Optimization
+* Added Immersive Machinery
+* Added Vivecraft [Experimental]
+  * Added ViveCraft Compat
+  * Vivecraft is highly experimental, and may change or break at any time!
+* Added Create: Dyanmic Lights
+* Added Spirit Walker
+  * This item is currently unobtainable due to recipe issues, but will be in the future
+* Added Stained Lenses
+* Updated to fabric version 0.16.10
+* Added Create Big Cannons [Experimental]
+  * This mod is currently in a testing phase, things may be removed, changed, or tweaked in the future
+* Added Create Utilities [Experimental]
+  * This mod isn't very likely to be changed, but is currently experimental, and changes may happen in the future
+* Some new splashes have been added to the game
+* Added Raknetiffy [Experimental]
+  * This mod can potential fix and improve speeds on slow and unreliable connections using a different networking backend, please feel free to test this out by adding `raknet;`*(or `raknetl;` for such as ethernet)* at the beginning of a server IP
+* Added ᔑ↸↸ᒷ↸ ℸ ̣ ⍑ᒷ ᓭᓵ⚍ꖎꖌ ⍑𝙹∷リ
+  * ℸ ̣ ⍑╎ᓭ ᒲ𝙹↸ ╎ᓭ ℸ ̣ ᒷᒲ!¡𝙹∷ᔑ∷|\| ᔑリ↸ 𝙹リꖎ|\| ᓭᒷ∷⍊ᒷᓭ ⎓⚍リᓵℸ ̣ ╎𝙹リᔑꖎ╎ℸ ̣ || ⎓𝙹∷ 𝙹⚍∷ ᓭᒷ∷⍊ᒷ∷ ᔑℸ ̣  ℸ ̣ ⍑ᒷ ᓵ⚍∷∷ᒷリℸ ̣  ᒲ𝙹ᒲᒷリℸ ̣
+* Added Red Bits
+## [/] Adjustments [/]
+
+* Updated numerous mods
+* Scorchful and forstiful have received config changes
+  * All main heating and cooling values have been reduced by 50%
+    * Certain objects such as icicles have also followed this reduction
+      * This was done upon the request of multiple users on the modpack, this mod is available to be removed if continued request to do so
+* The "Official Server" server option was renamed to "Main Server" and pivoted to the center of the screen
+* Immersive Aircraft has received configuration changes
+  * Aircrafts now retain items and customizations within the aircraft item
+  * Explosions from crashes are now 2x bigger
+## [-] Removals [-]
+
+* Removed some items
+  * Removed etcetera:wrench in favor for supplementarie's wrench.
+* A splash text has been removed due to controversy
+  * I will not be ellaborating upon this
